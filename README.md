@@ -2,15 +2,16 @@
   <img src="https://media1.tenor.com/images/e884f717b42f78f0792d914117cd010d/tenor.gif?itemid=9442662"/>
 </p>
 
-<p align="center"> Here you can see what projects I am currently working on. To know more about me use the links below: </p>
+<p align="center"> Здесь вы можете увидеть, над какими проектами я работаю в настоящее время. Чтобы узнать больше обо мне, воспользуйтесь ссылками ниже: </p>
 
 <p align="center">
-  <a href="https://vk.com/funny_code_d" target="_blank"><img src="https://cdn.icon-icons.com/icons2/2232/PNG/128/vk_logo_icon_134603.png" /></a>
-  <a href="https://prajjwal.me" target="_blank"><img src="images/insta.jpg" /></a>
+  <a href="https://vk.com/funny_code_d" target="_blank"><img src="images/logoza_ru_1_.EcsWp.png" /></a>
+  <a href="https://www.instagram.com/funny__code/" target="_blank"><img src="images/logoza_ru.Lwvhb.png" /></a>
+  <a href="https://t.me/sosnin_451" target="_blank"><img src="images/logoza_ru_2_.YTeP7.png" /></a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prajjwaldimri&count_private=true&show_icons=true&theme=onedark&hide=contribs"/>  
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Funny-Code-d&count_private=true&show_icons=true&theme=onedark&hide=contribs"/>  
 </p>
 
 <!--
