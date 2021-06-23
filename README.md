@@ -14,6 +14,21 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Funny-Code-d&count_private=true&show_icons=true&theme=onedark&hide=contribs"/>  
 </p>
 
+<h3>Завершённые проекты</h3>
+<li>
+  <a href="https://github.com/Funny-Code-d/block_text_editor_js">🖊️📝Блочный редактор для сайта СибГУТИ</a>
+</li>
+<li>
+  <a href="https://github.com/Funny-Code-d/GoogleMapsAPI">📡📶Построение тепловых карт распространения сигнала от БС</a>
+</li>
+<li>
+  <a href="https://github.com/Funny-Code-d/honorCupBot">🤖🦾Бот для решения тестов от Hueawei (Honor Cup)</a>
+</li>
+<h3>В разработке</h3>
+<li>
+  <a href="https://github.com/Funny-Code-d/full_drom_bot">🧹📈🤖Парсер сайта drom.ru и бот telegram</a>
+</li>
+
 <!--
 **Funny-Code-d/Funny-Code-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
