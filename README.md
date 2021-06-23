@@ -10,9 +10,9 @@
   <a href="https://t.me/sosnin_451" target="_blank"><img src="images/logoza_ru_2_.YTeP7.png" /></a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Funny-Code-d&count_private=true&show_icons=true&theme=onedark&hide=contribs"/>  
-</p>
+</p> -->
 
 <h3>Завершённые проекты</h3>
 <li>
