@@ -16,17 +16,20 @@
 
 <h3>Завершённые проекты</h3>
 <li>
-  <a href="https://github.com/Funny-Code-d/block_text_editor_js">🖊️📝Блочный редактор для сайта СибГУТИ</a>
+  <a href="https://github.com/Funny-Code-d/block_text_editor_js">🖊️📝 Блочный редактор для сайта СибГУТИ</a>
 </li>
 <li>
-  <a href="https://github.com/Funny-Code-d/GoogleMapsAPI">📡📶Построение тепловых карт распространения сигнала от БС</a>
+  <a href="https://github.com/Funny-Code-d/GoogleMapsAPI">📡📶 Построение тепловых карт распространения сигнала от БС</a>
 </li>
 <li>
-  <a href="https://github.com/Funny-Code-d/honorCupBot">🤖🦾Бот для решения тестов от Hueawei (Honor Cup)</a>
+  <a href="https://github.com/Funny-Code-d/honorCupBot">🤖🦾 Бот для решения тестов от Hueawei (Honor Cup)</a>
 </li>
 <h3>В разработке</h3>
 <li>
-  <a href="https://github.com/Funny-Code-d/full_drom_bot">🧹📈🤖Парсер сайта drom.ru и бот telegram</a>
+  <a href="https://github.com/Funny-Code-d/full_drom_bot">📈🤖 Парсер сайта drom.ru и бот telegram</a>
+</li>
+<li>
+  <a href='https://github.com/Funny-Code-d/costs-bot'>💰💹 Бот по котролю расходов</a>
 </li>
 
 <!--
