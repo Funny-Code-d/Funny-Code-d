@@ -29,7 +29,7 @@
   <a href="https://github.com/Funny-Code-d/full_drom_bot">📈🤖 Парсер сайта drom.ru и бот telegram</a>
 </li>
 <li>
-  <a href='https://github.com/Funny-Code-d/costs-bot'>💰💹 Бот по котролю расходов</a>
+  <a href='https://github.com/Funny-Code-d/costs_bot'>💰💹 Бот по котролю расходов</a>
 </li>
 
 <!--
