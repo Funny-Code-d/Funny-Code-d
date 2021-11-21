@@ -24,13 +24,14 @@
 <li>
   <a href="https://github.com/Funny-Code-d/honorCupBot">🤖🦾 Бот для решения тестов от Hueawei (Honor Cup)</a>
 </li>
+<li>
+  <a href='https://github.com/Funny-Code-d/costs_bot'>💰💹 Бот по котролю расходов</a>
+</li>
 <h3>В разработке</h3>
 <li>
   <a href="https://github.com/Funny-Code-d/full_drom_bot">📈🤖 Парсер сайта drom.ru и бот telegram</a>
 </li>
-<li>
-  <a href='https://github.com/Funny-Code-d/costs_bot'>💰💹 Бот по котролю расходов</a>
-</li>
+
 
 <!--
 **Funny-Code-d/Funny-Code-d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
