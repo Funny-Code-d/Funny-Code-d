@@ -24,10 +24,11 @@
 <li>
   <a href="https://github.com/Funny-Code-d/honorCupBot">🤖🦾 Бот для решения тестов от Hueawei (Honor Cup)</a>
 </li>
+
+<h3>В разработке</h3>
 <li>
   <a href='https://github.com/Funny-Code-d/costs_bot'>💰💹 Бот по котролю расходов</a>
 </li>
-<h3>В разработке</h3>
 <li>
   <a href="https://github.com/Funny-Code-d/full_drom_bot">📈🤖 Парсер сайта drom.ru и бот telegram</a>
 </li>
