@@ -27,13 +27,17 @@
 
 <h3>В разработке</h3>
 <li>
-  <a href='https://github.com/Funny-Code-d/costs_bot'>💰💹 Telegram бот работающий с API 👇🏻</a>
+  <a href='https://github.com/Funny-Code-d/finance-tracking-system-bot'>💰💹 Telegram бот работающий с API 👇🏻</a>
 </li>
 <!-- <li>
   <a href="https://github.com/Funny-Code-d/full_drom_bot">📈🤖 Парсер сайта drom.ru и бот telegram</a>
 </li> -->
 <li>
   <a href='https://github.com/Funny-Code-d/finance-tracking-system'>🪙💳 Система контроля личных расходов (API)</a>
+</li>
+
+<li>
+  <a href='https://github.com/Funny-Code-d/finance-tracking-system-site'>💰💹 Сайт работающий с API ☝️ </a>
 </li>
 
 
